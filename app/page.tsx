@@ -1,5 +1,5 @@
 import Head from "next/head";
-import '@app/global.css'; // adjust path as needed
+import "."; // adjust path as needed
 
 
 export default function HomePage() {
