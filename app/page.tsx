@@ -1,7 +1,4 @@
 import Head from "next/head";
-import "."; // adjust path as needed
-
-
 export default function HomePage() {
   return (
     <>
